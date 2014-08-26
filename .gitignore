@@ -1,1 +1,4 @@
 /GitTestJava/bin
+*.settings
+*.classpath
+*.project
